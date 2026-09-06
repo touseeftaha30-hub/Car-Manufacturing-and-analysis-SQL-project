@@ -44,7 +44,7 @@ The goal was to design a realistic relational schema and then write analytical S
 ## How to Run
 
 1. Open the `.sql` file in MySQL Workbench (or any MySQL client).
-2. Run the full script top to bottom — it creates the database, tables, inserts sample data, and includes all analysis queries at the end.
+2. Run the full script top to bottom it creates the database, tables, inserts sample data, and includes all analysis queries at the end.
 3. Run each query individually (they're separated by comments) to see results one at a time.
 
 
