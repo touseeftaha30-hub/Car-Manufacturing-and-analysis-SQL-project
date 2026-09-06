@@ -19,11 +19,11 @@ The goal was to design a realistic relational schema and then write analytical S
 | `parts` | Individual components (engine, tyre, battery, etc.) |
 | `car_models` | Car models and variants |
 | `dealers` | Dealer network |
-| `part_production` | Parts manufactured in-house, by plant and date |
+| `part_production` | Parts manufactured in house, by plant and date |
 | `part_supply` | Parts purchased from external suppliers |
 | `inventory` | Current stock levels per part, per plant |
 | `car_production` | Cars assembled, by model, plant, and batch |
-| `car_parts_mapping` | Bill of Materials — which parts (and how many) go into each model |
+| `car_parts_mapping` | Bill of Materials  which parts (and how many) go into each model |
 | `sales` | Car sales to dealers, with revenue |
 
 ## Analysis Queries & Insights
